@@ -92,7 +92,12 @@ The above schema can be displayed in nested form using many ways and I will use
 nested flatlists. In render item of the flatlist we can check the type of the current element
 is subtask and if its subtask we can render the same component again with subtask data .
 So in this way we can reuse the same flatlist again and again no matter how deep is nested subtasks are.
-I created a sample code example and sharing along in seprate file.(took 30 minutes to create this example).
+I created a sample code example and sharing along .(took 30 minutes to create this example).
+
+https://github.com/manjotdhiman/Nested_Tasklist
+files are in
+/src/
+
 ***/
 
 
@@ -210,6 +215,7 @@ var questions = function(task){
 
 /*** 
 
-answer here
+I think this is the best way to take a technical test rather than those live coding tests where 
+most of the time we may not get the best out of us due to the unfamilier enviroment .
 
 ***/
