@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { View, FlatList, Text, StyleSheet, Modal, TextInput } from 'react-native';
+import { View, FlatList, Text, StyleSheet} from 'react-native';
 const task = {
     "name": "Car Maintenance",
     "blocks": [
